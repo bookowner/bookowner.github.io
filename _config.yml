@@ -3,7 +3,7 @@
 
 title: "My Web Project"
 description: "A portfolio and blog built with GitHub Pages."
-url: "https://bookowner.io" # Your production URL
+url: "https://bookowner.github.io" # Your production URL
 baseurl: "" # Leave empty if your site is at the root, or use "/repository-name" if it's a project site
 
 # User Info
