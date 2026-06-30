@@ -1,15 +1,15 @@
 # Welcome to Jekyll!
 # Site settings
 
-title: "My Awesome Site"
+title: "My Web Project"
 description: "A portfolio and blog built with GitHub Pages."
-url: "https://yourusername.github.io" # Your production URL
+url: "https://bookowner.github.io" # Your production URL
 baseurl: "" # Leave empty if your site is at the root, or use "/repository-name" if it's a project site
 
 # User Info
 author:
-  name: "Your Name"
-  email: "your.email@example.com"
+  name: "Bookowner"
+  email: "luxeda4@gmail.com"
   twitter: "your_twitter_handle"
 
 # Build settings
